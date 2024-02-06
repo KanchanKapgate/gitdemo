@@ -1,4 +1,4 @@
 # gitdemo
 this is my first git repo
 <br>
-Author- Kanchan Kapgate
+Author- Kanchan Kapgate (kk)
